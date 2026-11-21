@@ -19,8 +19,8 @@ two-year contract customers churn at only 3%.
 python · pandas · numpy · matplotlib · seaborn · scikit-learn
 
 ## Dataset
-ibm telco customer churn — kaggle
+ibm telco customer churn - kaggle
 
 ---
--by Ragini Gupta | BSc data science | SDBI , Mumbai
+-by Ragini Gupta | BSc Data Science | SDBI , Mumbai
 
